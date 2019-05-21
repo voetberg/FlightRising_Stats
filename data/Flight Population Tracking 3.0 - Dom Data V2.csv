@@ -1,0 +1,46 @@
+Battle Name,Start Date,[W] Flight Size,[L] Flight Size,[W] Flight,[L] Flight,Size Difference,Abs. Size Difference,Winner's Percent of Loser,Who Won,Larger Won,Smaller Won,Who Won,Larger Won,Smaller Won,Flight,% of Conquests Won,% of Conquests that were vs Larger Flights,Total Fights,Battle Won,Battle Lost,Versus a Larger Flight,Wins vs Larger Flight,Losses vs Larger Flight,Versus a Smaller Flight,Wins vs Smaller Flight,Losses vs Smaller Flight
+Lightning vs Plague [12/14/14],12/14/2014,11668,12121,Plague,Lightning,453,453,96.26%,Smaller,,453,Smaller,,96.26%,Earth,100.00%,100.00%,10,10,0,10,10,0,0,0,0
+BotFF [2/1/15],2/1/2015,7843,8436,Fire,Water,593,593,92.97%,Smaller,,593,Smaller,,92.97%,Plague,66.67%,50.00%,6,4,2,3,3,0,3,1,2
+BotFF [2/1/15],2/1/2015,8436,15767,Water,Wind,7331,7331,53.50%,Smaller,,7331,Smaller,,53.50%,Wind,30.77%,23.08%,13,4,9,3,3,0,10,1,9
+BotFF [2/1/15],2/1/2015,7843,15767,Fire,Wind,7924,7924,49.74%,Smaller,,7924,Smaller,,49.74%,Water,40.00%,60.00%,10,4,6,6,4,2,4,0,4
+Light vs Nature [2/8/15],2/8/2015,11325,12510,Light,Nature,1185,1185,90.53%,Smaller,,1185,Smaller,,90.53%,Lightning,85.71%,42.86%,7,6,1,3,3,0,4,3,1
+Ice vs Shadow vs Arcane [3/8/15],3/8/2015,16960,16668,Shadow,Arcane,-292,292,101.75%,Larger,292,,Larger,98.25%,,Ice,37.50%,37.50%,8,3,5,3,2,1,5,1,4
+Ice vs Shadow vs Arcane [3/8/15],3/8/2015,12802,16668,Ice,Arcane,3866,3866,76.81%,Smaller,,3866,Smaller,,76.81%,Shadow,14.29%,0.00%,7,1,6,0,0,0,7,1,6
+Ice vs Shadow vs Arcane [3/8/15],3/8/2015,12802,16960,Ice,Shadow,4158,4158,75.48%,Smaller,,4158,Smaller,,75.48%,Light,50.00%,66.67%,6,3,3,4,3,1,2,0,2
+Lightning vs Nature [4/12/15],4/12/2015,15263,14153,Lightning,Nature,-1110,1110,107.84%,Larger,1110,,Larger,92.16%,,Arcane,22.22%,33.33%,9,2,7,3,2,1,6,0,6
+Beach Party [7/5/15],7/5/2015,5198,10881,Earth,Water,5683,5683,47.77%,Smaller,,5683,Smaller,,47.77%,Nature,42.86%,42.86%,7,3,4,3,2,1,4,1,3
+Beach Party [7/5/15],7/5/2015,10881,19840,Water,Wind,8959,8959,54.84%,Smaller,,8959,Smaller,,54.84%,Fire,71.43%,100.00%,7,5,2,7,5,2,0,0,0
+Beach Party [7/5/15],7/5/2015,5198,19840,Earth,Wind,14642,14642,26.20%,Smaller,,14642,Smaller,,26.20%,,,,,,,,,,,,
+Arcane vs Shadow [8/2/15],8/2/15,22815,23561,Arcane,Shadow,746,746,96.83%,Smaller,,746,Smaller,,96.83%,,,,,,,,,,,,
+Nature vs Light [8/9/15],8/9/15,16876,15380,Nature,Light,-1496,1496,109.73%,Larger,1496,,Larger,90.27%,,,,,,,,,,,,,
+Ice vs Plague [8/30/15],8/30/15,18120,18212,Plague,Ice,92,92,99.49%,Smaller,,92,Smaller,,99.49%,,,,,,,,,,,,
+Wind vs Lightning [9/6/15],9/6/15,19140,21297,Lightning,Wind,2157,2157,89.87%,Smaller,,2157,Smaller,,89.87%,,,,,,,,,,,,
+Wind vs Arcane [11/8/15],11/8/15,21194,23763,Wind,Arcane,2569,2569,89.19%,Smaller,,2569,Smaller,,89.19%,,,,,,,,,,,,
+Ice vs Fire [12/13/15],12/13/15,19684,11944,Ice,Fire,-7740,7740,164.80%,Larger,7740,,Larger,35.20%,,,,,,,,,,,,,
+BotFF II [1/10/16],1/10/16,6155,13110,Earth,Water,6955,6955,46.95%,Smaller,,6955,Smaller,,46.95%,,,,,,,,,,,,
+BotFF II [1/10/16],1/10/16,23345,13110,Wind,Water,-10235,10235,178.07%,Larger,10235,,Larger,21.93%,,,,,,,,,,,,,
+BotFF II [1/10/16],1/10/16,6155,23345,Earth,Wind,17190,17190,26.37%,Smaller,,17190,Smaller,,26.37%,,,,,,,,,,,,
+Light v Plague [2/7/16],2/7/16,18739,22009,Light,Plague,3270,3270,85.14%,Smaller,,3270,Smaller,,85.14%,,,,,,,,,,,,
+Fire v Arcane [3/6/16],3/6/16,13310,28614,Fire,Arcane,15304,15304,46.52%,Smaller,,15304,Smaller,,46.52%,,,,,,,,,,,,
+Ice v Nature [3/13/16],3/13/16,21362,22696,Nature,Ice,1334,1334,94.12%,Smaller,,1334,Smaller,,94.12%,,,,,,,,,,,,
+Fire v Shadow [5/1/16],5/1/16,13847,31313,Fire,Shadow,17466,17466,44.22%,Smaller,,17466,Smaller,,44.22%,,,,,,,,,,,,
+Lightning v Arcane [5/29/16],5/29/16,24049,30751,Lightning,Arcane,6702,6702,78.21%,Smaller,,6702,Smaller,,78.21%,,,,,,,,,,,,
+Earth v Wind [6/12/16],6/13/16,7085,27279,Earth,Wind,20194,20194,25.97%,Smaller,,20194,Smaller,,25.97%,,,,,,,,,,,,
+Wind v Shadow [7/31/16],7/31/16,27899,34501,Wind,Shadow,6602,6602,80.86%,Smaller,,6602,Smaller,,80.86%,,,,,,,,,,,,
+Plague v Water [8/7/16],8/7/16,25158,16042,Plague,Water,-9116,9116,156.83%,Larger,9116,,Larger,43.17%,,,,,,,,,,,,,
+Fire v Water [11/6/16],11/6/16,16230,17142,Fire,Water,912,912,94.68%,Smaller,,912,Smaller,,94.68%,,,,,,,,,,,,
+Nature vs Shadow [12/11/16],12/10/16,25432,38256,Nature,Shadow,12824,12824,66.48%,Smaller,,12824,Smaller,,66.48%,,,,,,,,,,,,
+Wind vs Arcane [1/8/17],1/1/17,30815,36888,Wind,Arcane,6073,6073,83.54%,Smaller,,6073,Smaller,,83.54%,,,,,,,,,,,,
+Lightning vs Fire [2/26/17],2/26/17,29054,17665,Lightning,Fire,-11389,11389,164.47%,Larger,11389,,Larger,35.53%,,,,,,,,,,,,,
+Earth v Light [4/9/17],4/8/17,8401,26668,Earth,Light,18267,18267,31.50%,Smaller,,18267,Smaller,,31.50%,,,,,,,,,,,,
+Light v Nature [7/2/17],7/2/17,28448,29243,Light,Nature,795,795,97.28%,Smaller,,795,Smaller,,97.28%,,,,,,,,,,,,
+Ice v Water [7/9/17],7/8/17,20167,30721,Water,Ice,10554,10554,65.65%,Smaller,,10554,Smaller,,65.65%,,,,,,,,,,,,
+Arcane vs Shadow [7/30/17],7/30/17,42386,45377,Arcane,Shadow,2991,2991,93.41%,Smaller,,2991,Smaller,,93.41%,,,,,,,,,,,,
+Earth v Plague [8/13/17],8/12/17,9010,32922,Earth,Plague,23912,23912,27.37%,Smaller,,23912,Smaller,,27.37%,,,,,,,,,,,,
+Lightning v Wind [9/3/17],9/3/17,32181,35225,Lightning,Wind,3044,3044,91.36%,Smaller,,3044,Smaller,,91.36%,,,,,,,,,,,,
+Earth v Light [12/10/17],12/9/17,9792,31231,Earth,Light,21439,21439,31.35%,Smaller,,21439,Smaller,,31.35%,,,,,,,,,,,,
+Earth v Ice [2/25/18],2/25/18,10254,34675,Earth,Ice,24421,24421,29.57%,Smaller,,24421,Smaller,,29.57%,,,,,,,,,,,,
+Earth v Nature [4/8/18],4/8/18,10482,34123,Earth,Nature,23641,23641,30.72%,Smaller,,23641,Smaller,,30.72%,,,,,,,,,,,,
+Plague v Arcane [4/29/18],4/30/18,38439,49268,Plague,Arcane,10829,10829,78.02%,Smaller,,10829,Smaller,,78.02%,,,,,,,,,,,,
+Wind v Water [7/29/18],7/29/18,25490,41120,Water,Wind,15630,15630,61.99%,Smaller,,15630,Smaller,,61.99%,,,,,,,,,,,,
+Ice v Lightning [11/4/18],11/4/18,40380,39522,Lightning,Ice,-858,858,102.17%,Larger,858,,Larger,97.83%,,,,,,,,,,,,,
